@@ -1,6 +1,6 @@
 # Obstacle Avoidance Voice Control Car Robot
 
-This project is an Arduino-based robot that autonomously avoids obstacles and can be controlled via voice commands. It uses ultrasonic sensors for obstacle detection and a voice recognition module to interpret user instructions.
+This project is an Arduino-based robot that autonomously avoids obstacles and can be controlled via voice commands. It uses ultrasonic sensors for obstacle detection and a voice recognition module to interpret user instructions. The robot can move forward, backward, turn left, turn right, and stop based on commands received through the serial interface. It utilizes ultrasonic distance measurement to avoid obstacles, ensuring smooth operation.
 
 ## Features
 
