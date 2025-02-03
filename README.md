@@ -32,11 +32,11 @@ This project is an Arduino-based robot that autonomously avoids obstacles and ca
 
 The robot responds to the following commands via serial input:
 
-- **move forward#**: Moves the robot forward until an obstacle is detected.
-- **move backward#**: Moves the robot backward.
-- **turn left#**: Turns the robot left.
-- **turn right#**: Turns the robot right.
-- **stop#**: Stops all movements.
+- **move forward**: Moves the robot forward until an obstacle is detected.
+- **move backward**: Moves the robot backward.
+- **turn left**: Turns the robot left.
+- **turn right**: Turns the robot right.
+- **stop**: Stops all movements.
 
 ## How It Works
 
