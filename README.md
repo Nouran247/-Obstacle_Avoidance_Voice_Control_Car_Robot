@@ -10,12 +10,12 @@ This project is an Arduino-based robot that autonomously avoids obstacles and ca
 
 ## Components Used
 
-- Arduino board (e.g., Arduino Uno)
+- Arduino board (Arduino Uno)
 - Ultrasonic sensor (for obstacle detection)
 - Voice recognition module
-- Motors and motor driver
+- Motors and motor shield
 - Chassis and wheels
-- Jumper wires and breadboard
+- Jumper wires
 
 ## Functions
 
